@@ -1,7 +1,7 @@
 {
-    "name": "keytar-hero",
+    "name": "mppini",
     "main": "server.js",
-    "author": "Alex Pounds <alex@alexpounds.com>",
+    "author": "lolsuperscratch",
 
     "directories": {
         "tests": "tests"
